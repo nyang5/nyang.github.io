@@ -785,7 +785,7 @@ a:hover {
   font-size: 4rem;
 }
 
-.service-box .s-title {
+.service-content .s-title {
   font-size: 1.4rem;
   text-transform: uppercase;
   text-align: center;
@@ -794,6 +794,11 @@ a:hover {
 
 .service-box .s-description {
   color: #4e4e4e;
+}
+
+.service-content .s-description {
+  color: #4e4e4e;
+  padding: 0 10px 0 10px;
 }
 
 /*--------------------------------------------------------------
